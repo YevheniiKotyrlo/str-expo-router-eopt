@@ -1,0 +1,16 @@
+{
+  "name": "str-expo-router-eopt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal reproduction: expo-router type errors with exactOptionalPropertyTypes",
+  "dependencies": {
+    "expo": "~55.0.3",
+    "expo-router": "~55.0.3",
+    "react": "^19.2.4",
+    "react-native": "~0.84.0"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "@types/react": "^19.2.14"
+  }
+}
