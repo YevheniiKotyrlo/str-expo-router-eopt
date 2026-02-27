@@ -65,8 +65,9 @@ See [expo/expo#43506](https://github.com/expo/expo/pull/43506).
 
 ## Environment
 
-- expo-router: 55.0.3
 - expo: 55.0.3
-- react-native: 0.84.0
-- react: 19.2.4
+- expo-router: 55.0.3
+- react-native: 0.83.2
+- react: 19.2.0
 - typescript: 5.9.3
+- expo-doctor: 17/17 checks passed
