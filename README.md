@@ -4,7 +4,13 @@ Minimal reproduction showing that `expo-router@55.0.3` types are incompatible wi
 
 ## Reproduce
 
+[Open in StackBlitz](https://stackblitz.com/github/YevheniiKotyrlo/str-expo-router-eopt) (run `npx tsc --noEmit` in the terminal)
+
+Or locally:
+
 ```bash
+git clone https://github.com/YevheniiKotyrlo/str-expo-router-eopt.git
+cd str-expo-router-eopt
 npm install
 npx tsc --noEmit
 ```
