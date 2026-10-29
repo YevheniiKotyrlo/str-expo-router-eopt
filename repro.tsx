@@ -31,8 +31,8 @@ const screenProps: ScreenProps = {
 function getScreenConfig(name: string): Partial<ScreenProps> {
   return {
     name,
-    redirect: undefined, // TS2375
-    initialParams: undefined, // TS2375
+    getId: undefined, // TS2375
+    listeners: undefined, // TS2375
   };
 }
 
